@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Riya%20Shah&fontColor=0a0a0a
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Riya%20Shah&fontColor=0a0a0a">
 
 
 
