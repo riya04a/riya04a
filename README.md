@@ -1,5 +1,5 @@
 
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Prince%20Rupavatiya&textBg=false&reversal=false&animation=scaleIn&descAlignY=52&fontColor=0a0a0a">
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Riya%20Shah&textBg=false&reversal=false&animation=scaleIn&descAlignY=52&fontColor=0a0a0a">
 
 <h1 align="center">Hi 👋, I'm Riya Shah</h1>
 <h3 align="center">A passionate developer from Bharat</h3>   
