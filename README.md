@@ -1,7 +1,7 @@
 
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Prince%20Rupavatiya&textBg=false&reversal=false&animation=scaleIn&descAlignY=52&fontColor=0a0a0a">
 
-<h1 align="center">Hi 👋, I'm Prince Rupavatiya</h1>
+<h1 align="center">Hi 👋, I'm Riya Shah</h1>
 <h3 align="center">A passionate developer from Bharat</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya04a&label=Profile%20views&color=0e75b6&style=flat" alt="riya04a" /> </p>
