@@ -110,7 +110,7 @@
 <hr></hr>
 <p>Creation 👨‍💻</p>
 <h3>
-<a href="https://riya04a.github.io/Cityscape_Challenge_Game/index.html" />Cityscape Challenge Game</a> and Crafted with 💛 by Riya shah</h3>
+<a href="https://riya04a.github.io/Cistyscape_Challenges_Game/" />Cityscape Challenge Game</a> and Crafted with 💛 by Riya shah</h3>
 <p>Cityscape Challenge is a 2D game developed for the motive of game-based learning. The 
     game provides a cityscape where the main character Tanishq faces some obstacles while 
     exploring the city.</p> 
